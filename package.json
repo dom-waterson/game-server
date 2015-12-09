@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/domTombola/game-server",
   "dependencies": {
-    "express": "latest"
+    "express": "latest",
+    "body-parser": "~1.14.1"
   }
 }
